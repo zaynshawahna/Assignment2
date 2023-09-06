@@ -1,0 +1,36 @@
+header{
+  
+     max-height: 40px;
+     background-color: #27005D;
+     
+     margin: 0px;
+     padding:1.5%; 
+     font-size: 1.4em;
+     font-weight: 800;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+     align-items: center;
+     text-align: center;
+     border: 2px solid #016A70;
+   
+   }
+   a{
+    
+   
+     display: inline-block;
+     align-items: center;
+     color:#ffffff;
+    margin: 20px;
+     
+     font: 1.6em sans-serif;
+    
+     text-decoration: none;
+     cursor: pointer;
+    
+     
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin: auto;
+     
+     
+     
+   }
